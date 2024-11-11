@@ -12,4 +12,5 @@ class AbonoVIP{
 object abonoFan{
     method esVip() = false
     method descuentoAplicado(unValor) = unValor
+    method aumentarDescuento(unValor){}
 }
